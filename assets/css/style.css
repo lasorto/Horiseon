@@ -78,8 +78,8 @@ header nav ul li {
     margin-left: 25px;
 }
 
-/* search-engine-optimization Styles */
-.search-engine-optimization {
+/* Services styles */
+.services {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -88,52 +88,13 @@ header nav ul li {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+.services img {
     max-height: 200px;
 }
-.search-engine-optimization h2 {
+.services h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-/* online-reputation Styles */
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* social-media-marketing Styles */
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-/* End Content Section Styles */
 
 /* Benefit lead Styles */
 .benefits {
@@ -147,7 +108,7 @@ header nav ul li {
     background-color: #2589bd;
 }
 
-/* benefit-lead styles */
+/* benefit-steps styles */
 .benefit-steps {
     margin-bottom: 32px;
     color: #ffffff;
