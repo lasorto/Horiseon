@@ -38,9 +38,10 @@ THEN I find a concise, descriptive title
 
 You are required to submit the following for review:
 
-* The URL of the deployed application.
+![Alt text](./assets/images/Horiseon.PNG)
 
-* The URL of the GitHub repository. Give the repository a unique name and include a professional README describing the project.
+https://lasorto.github.io/Horiseon/
 
+https://github.com/lasorto/Horiseon
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
